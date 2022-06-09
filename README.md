@@ -1,5 +1,6 @@
 # GT-Syllabus-Scraper
 Scraper intended to grab and parse PDFs of GT Syllabi from the internet.
+The work for this project was done almost entirely in early Spring 2021 so details on this are a little hazy for me.
 
 ## Files
 
